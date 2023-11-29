@@ -1,3 +1,6 @@
+onload = () =>{
+        document.body.classList.remove("container");
+};
 const bodyE1 = document.querySelector("body");
 let pressTimer;
 
