@@ -3,6 +3,8 @@ body{
     height: 100vh;
     background-color: black;
     overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 h1{
     font-family: sans-serif;
