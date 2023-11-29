@@ -20,8 +20,17 @@ function createSpan(x, y) {
 
 // Mousemove event listener
 bodyE1.addEventListener("mousemove", (event) => {
-    const xPos = event.offsetX;
-    const yPos = event.offsetY;
+    const xPos = event.clientX;
+    const yPos = event.clientY;
+    createSpan(xPos, yPos);
+});
+
+// Touchmove event listener
+bodyE1.addEventListener("touchmove", (event) => {
+    event.preventDefault(); // Prevent default touch behavior
+    const touch = event.touches[0];
+    const xPos = touch.clientX;
+    const yPos = touch.clientY;
     createSpan(xPos, yPos);
 });
 
