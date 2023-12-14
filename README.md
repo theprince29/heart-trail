@@ -33,3 +33,36 @@ To get a copy of this project up and running on your local machine, follow these
    https://github.com/theprince29/heart-trail.git
    
    ```
+2. Open the project in your preferred code editor.
+
+3. Explore the index.html, style.css, and index.js files to understand the structure and code.
+
+## Usage
+
+To use this project:
+
+1. Open the index.html file in a web browser.
+
+2. Interact with the flowers by tapping and moving around the page.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, follow these steps:
+
+## Fork the repository.
+
+ 1. Create a new branch: ```git checkout -b feature/new-feature```.
+
+2. Make your changes and commit them: ```git commit -am 'Add new feature'```.
+
+3. Push to the branch: ```git push origin feature/new-feature```.
+
+4. Submit a pull request detailing your changes.
+
+
+## License
+
+This project is licensed under the MIT License.
+
+   
+   
