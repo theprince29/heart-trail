@@ -15,7 +15,7 @@ This project is a magical, interactive website featuring beautiful flowers that 
 
 ## Demo
 
-You can check out the live demo [here](link_to_live_demo).
+You can check out the live demo [here](https://theprince29.github.io/heart-trail/).
 
 ## Features
 
