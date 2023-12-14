@@ -17,6 +17,9 @@ This project is a magical, interactive website featuring beautiful flowers that 
 
 You can check out the live demo [here](https://theprince29.github.io/heart-trail/).
 
+![Flowers Image](image/Screenshot 2023-12-14 124215.png)
+
+
 ## Features
 
 - Tap and move to experience the magic of growing flowers and leaves.
